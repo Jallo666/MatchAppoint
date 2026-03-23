@@ -8,7 +8,7 @@
     "skipLibCheck": true,
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
-    "verbatimModuleSyntax": true,
+    //"verbatimModuleSyntax": true,
     "moduleDetection": "force",
     "noEmit": true,
     "strict": true,
@@ -17,7 +17,8 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true,
 
-    "jsx": "react-jsx"   // <- QUESTO è necessario
+    "jsx": "react-jsx",
+    "resolveJsonModule": true
   },
   "include": ["src"]
 }

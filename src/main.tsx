@@ -1,10 +1,14 @@
-import React from "react";
-import ReactDOM from "react-dom/client";
-import Home from "./pages/Home"; // <- importa il componente
-import "./style.css";
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import { HashRouter as BrowserRouter } from 'react-router-dom';
+import { AppRoutes } from './AppRoutes';
+import './lib/dayjs';
+import './style.css';
 
-ReactDOM.createRoot(document.getElementById("app")!).render(
+ReactDOM.createRoot(document.getElementById('app')!).render(
   <React.StrictMode>
-    <Home /> {/* <-- JSX qui, valore, non tipo */}
+    <BrowserRouter>
+      <AppRoutes />
+    </BrowserRouter>
   </React.StrictMode>
 );

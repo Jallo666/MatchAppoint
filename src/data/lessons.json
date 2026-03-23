@@ -1,0 +1,347 @@
+[
+  {
+    "id": "les-1",
+    "instructorId": "inst-1",
+    "date": "2026-03-02",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "students": [
+      { "studentId": "stu-1", "notesBefore": "Riscaldamento spalle prima di iniziare", "notesAfter": "Ottima sessione, rovescio in netto miglioramento" },
+      { "studentId": "stu-3", "notesBefore": "", "notesAfter": "Prima palla corta ben riuscita, da consolidare" }
+    ],
+    "globalNotesBefore": "Campo 2, vento moderato da nord",
+    "globalNotesAfter": "Lezione andata bene, gruppo affiatato",
+    "status": "completed"
+  },
+  {
+    "id": "les-2",
+    "instructorId": "inst-1",
+    "date": "2026-03-03",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "students": [
+      { "studentId": "stu-2", "notesBefore": "Ripasso grip continentale per il servizio", "notesAfter": "Progressi lenti ma costanti sul servizio piatto" }
+    ],
+    "globalNotesBefore": "",
+    "globalNotesAfter": "Dedicare più tempo al servizio nelle prossime sessioni",
+    "status": "completed"
+  },
+  {
+    "id": "les-3",
+    "instructorId": "inst-2",
+    "date": "2026-03-03",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "students": [
+      { "studentId": "stu-7", "notesBefore": "Ripresa dopo settimana di riposo", "notesAfter": "Ottima forma, slice di rovescio migliorato" },
+      { "studentId": "stu-11", "notesBefore": "Focus su risposta in pressione", "notesAfter": "Eccellente lavoro tattico, gestisce bene i punti importanti" }
+    ],
+    "globalNotesBefore": "Sessione di sparring avanzata",
+    "globalNotesAfter": "Le due allieve si stimolano a vicenda, continuare",
+    "status": "completed"
+  },
+  {
+    "id": "les-4",
+    "instructorId": "inst-1",
+    "date": "2026-03-05",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "students": [
+      { "studentId": "stu-4", "notesBefore": "Preparazione tattica per torneo del weekend", "notesAfter": "Pronto per il torneo, buona gestione dei punti break" }
+    ],
+    "globalNotesBefore": "Sessione pre-torneo, intensità alta",
+    "globalNotesAfter": "Davide è in ottima forma mentale",
+    "status": "completed"
+  },
+  {
+    "id": "les-5",
+    "instructorId": "inst-3",
+    "date": "2026-03-05",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "students": [
+      { "studentId": "stu-8", "notesBefore": "Esercizi di coordinazione base", "notesAfter": "Buoni progressi sul dritto, braccio più rilassato" },
+      { "studentId": "stu-12", "notesBefore": "Adattamento distanza dal fondo campo rispetto al padel", "notesAfter": "Inizia a capire il posizionamento, da lavorare sui piedi" }
+    ],
+    "globalNotesBefore": "Gruppo principianti, ritmo lento",
+    "globalNotesAfter": "",
+    "status": "completed"
+  },
+  {
+    "id": "les-6",
+    "instructorId": "inst-1",
+    "date": "2026-03-07",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "students": [
+      { "studentId": "stu-1", "notesBefore": "Test rovescio bimane dopo lavoro settimana scorsa", "notesAfter": "Miglioramento evidente, continuare con esercizi a muro" },
+      { "studentId": "stu-9", "notesBefore": "Lavoro sul rovescio", "notesAfter": "Rovescio ancora incerto, proposto esercizio di impostazione" }
+    ],
+    "globalNotesBefore": "",
+    "globalNotesAfter": "Livelli diversi ma buona dinamica di gruppo",
+    "status": "completed"
+  },
+  {
+    "id": "les-7",
+    "instructorId": "inst-2",
+    "date": "2026-03-09",
+    "startTime": "09:30",
+    "endTime": "11:00",
+    "students": [
+      { "studentId": "stu-7", "notesBefore": "Lavoro di accelerazione su seconda palla", "notesAfter": "" },
+      { "studentId": "stu-4", "notesBefore": "", "notesAfter": "Buona dinamica con sparring partner di livello" }
+    ],
+    "globalNotesBefore": "Sessione sparring cross-istruttore",
+    "globalNotesAfter": "Collaborazione proficua tra i due allievi",
+    "status": "completed"
+  },
+  {
+    "id": "les-8",
+    "instructorId": "inst-1",
+    "date": "2026-03-10",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "students": [
+      { "studentId": "stu-2", "notesBefore": "", "notesAfter": "Finalmente riesce a tenere il pallone in campo con il dritto" },
+      { "studentId": "stu-5", "notesBefore": "Prima lezione, accoglienza e basi", "notesAfter": "Elena molto entusiasta, ottimo potenziale atletico" }
+    ],
+    "globalNotesBefore": "Lezione principianti, focus su tecnica base dritto",
+    "globalNotesAfter": "Buona sinergia nel gruppo principianti",
+    "status": "completed"
+  },
+  {
+    "id": "les-9",
+    "instructorId": "inst-3",
+    "date": "2026-03-10",
+    "startTime": "15:00",
+    "endTime": "16:30",
+    "students": [
+      { "studentId": "stu-6", "notesBefore": "Attenzione alla schiena, riscaldamento lungo", "notesAfter": "Nessun dolore riportato, buona mobilità" },
+      { "studentId": "stu-10", "notesBefore": "Solo sabato disponibile, sfruttare al massimo", "notesAfter": "Lavoro su mobilità laterale con esercizi a scaletta" }
+    ],
+    "globalNotesBefore": "Adulti intermedi, ritmo moderato",
+    "globalNotesAfter": "",
+    "status": "completed"
+  },
+  {
+    "id": "les-10",
+    "instructorId": "inst-1",
+    "date": "2026-03-12",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "students": [
+      { "studentId": "stu-1", "notesBefore": "Preparazione tattica torneo giugno", "notesAfter": "" },
+      { "studentId": "stu-4", "notesBefore": "Ripresa dopo torneo del weekend", "notesAfter": "Ha vinto il torneo, morale alle stelle" }
+    ],
+    "globalNotesBefore": "Sessione avanzata, tattica e variazioni",
+    "globalNotesAfter": "Grande motivazione nel gruppo avanzato",
+    "status": "completed"
+  },
+  {
+    "id": "les-11",
+    "instructorId": "inst-2",
+    "date": "2026-03-12",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "students": [
+      { "studentId": "stu-11", "notesBefore": "Analisi video della partita della settimana scorsa", "notesAfter": "Identificate le zone di miglioramento nel gioco sotto pressione" }
+    ],
+    "globalNotesBefore": "Sessione individuale tattica",
+    "globalNotesAfter": "Paola molto ricettiva al feedback video",
+    "status": "completed"
+  },
+  {
+    "id": "les-12",
+    "instructorId": "inst-1",
+    "date": "2026-03-14",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "students": [
+      { "studentId": "stu-3", "notesBefore": "Focus servizio: velocità e angoli", "notesAfter": "Prima di servizio migliorata del 20%, continuare" },
+      { "studentId": "stu-9", "notesBefore": "", "notesAfter": "Buona progressione sul rovescio, più fiducia" }
+    ],
+    "globalNotesBefore": "",
+    "globalNotesAfter": "",
+    "status": "completed"
+  },
+  {
+    "id": "les-13",
+    "instructorId": "inst-3",
+    "date": "2026-03-14",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "students": [
+      { "studentId": "stu-8", "notesBefore": "Avanzamento su fondamentali dritto", "notesAfter": "" },
+      { "studentId": "stu-5", "notesBefore": "Introduzione al servizio", "notesAfter": "Elena apprende rapidamente, ottima memoria motoria" },
+      { "studentId": "stu-12", "notesBefore": "Esercizi posizionamento fondo campo", "notesAfter": "Migliorato il timing rispetto alla settimana scorsa" }
+    ],
+    "globalNotesBefore": "Gruppo principianti, introduzione servizio",
+    "globalNotesAfter": "Lezione produttiva, tutti e tre in progressione",
+    "status": "completed"
+  },
+  {
+    "id": "les-14",
+    "instructorId": "inst-1",
+    "date": "2026-03-17",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "students": [
+      { "studentId": "stu-2", "notesBefore": "Continuare lavoro su dritto e movimento", "notesAfter": "" },
+      { "studentId": "stu-5", "notesBefore": "Consolidamento servizio", "notesAfter": "" }
+    ],
+    "globalNotesBefore": "Gruppo principianti settimanale",
+    "globalNotesAfter": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "les-15",
+    "instructorId": "inst-1",
+    "date": "2026-03-17",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "students": [
+      { "studentId": "stu-1", "notesBefore": "Lavoro su palle corte e variazioni", "notesAfter": "" },
+      { "studentId": "stu-4", "notesBefore": "", "notesAfter": "" }
+    ],
+    "globalNotesBefore": "Sessione avanzati del lunedì",
+    "globalNotesAfter": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "les-16",
+    "instructorId": "inst-2",
+    "date": "2026-03-18",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "students": [
+      { "studentId": "stu-7", "notesBefore": "Preparazione torneo circolo aprile", "notesAfter": "" },
+      { "studentId": "stu-11", "notesBefore": "Continuare lavoro tattico", "notesAfter": "" }
+    ],
+    "globalNotesBefore": "Sessione avanzate",
+    "globalNotesAfter": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "les-17",
+    "instructorId": "inst-3",
+    "date": "2026-03-19",
+    "startTime": "14:30",
+    "endTime": "16:00",
+    "students": [
+      { "studentId": "stu-6", "notesBefore": "Esercizi mobilità con riscaldamento esteso", "notesAfter": "" },
+      { "studentId": "stu-10", "notesBefore": "Miglioramento footwork", "notesAfter": "" }
+    ],
+    "globalNotesBefore": "",
+    "globalNotesAfter": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "les-18",
+    "instructorId": "inst-1",
+    "date": "2026-03-19",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "students": [
+      { "studentId": "stu-3", "notesBefore": "Consolidamento miglioramenti servizio", "notesAfter": "" }
+    ],
+    "globalNotesBefore": "",
+    "globalNotesAfter": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "les-19",
+    "instructorId": "inst-1",
+    "date": "2026-03-21",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "students": [
+      { "studentId": "stu-1", "notesBefore": "", "notesAfter": "" },
+      { "studentId": "stu-4", "notesBefore": "", "notesAfter": "" },
+      { "studentId": "stu-9", "notesBefore": "", "notesAfter": "" }
+    ],
+    "globalNotesBefore": "Sessione di gruppo sabato mattina",
+    "globalNotesAfter": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "les-20",
+    "instructorId": "inst-2",
+    "date": "2026-03-21",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "students": [
+      { "studentId": "stu-7", "notesBefore": "", "notesAfter": "" },
+      { "studentId": "stu-11", "notesBefore": "", "notesAfter": "" }
+    ],
+    "globalNotesBefore": "Allenamento pre-torneo",
+    "globalNotesAfter": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "les-21",
+    "instructorId": "inst-1",
+    "date": "2026-03-24",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "students": [
+      { "studentId": "stu-2", "notesBefore": "", "notesAfter": "" },
+      { "studentId": "stu-5", "notesBefore": "", "notesAfter": "" }
+    ],
+    "globalNotesBefore": "",
+    "globalNotesAfter": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "les-22",
+    "instructorId": "inst-1",
+    "date": "2026-03-26",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "students": [
+      { "studentId": "stu-1", "notesBefore": "", "notesAfter": "" }
+    ],
+    "globalNotesBefore": "",
+    "globalNotesAfter": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "les-23",
+    "instructorId": "inst-3",
+    "date": "2026-03-26",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "students": [
+      { "studentId": "stu-8", "notesBefore": "", "notesAfter": "" },
+      { "studentId": "stu-12", "notesBefore": "", "notesAfter": "" }
+    ],
+    "globalNotesBefore": "",
+    "globalNotesAfter": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "les-24",
+    "instructorId": "inst-2",
+    "date": "2026-03-28",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "students": [
+      { "studentId": "stu-11", "notesBefore": "", "notesAfter": "" }
+    ],
+    "globalNotesBefore": "",
+    "globalNotesAfter": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "les-25",
+    "instructorId": "inst-1",
+    "date": "2026-03-06",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "students": [
+      { "studentId": "stu-6", "notesBefore": "Attenzione alla schiena", "notesAfter": "Nessun problema, buona sessione leggera" }
+    ],
+    "globalNotesBefore": "",
+    "globalNotesAfter": "",
+    "status": "cancelled"
+  }
+]

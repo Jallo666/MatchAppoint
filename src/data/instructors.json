@@ -1,0 +1,23 @@
+[
+  {
+    "id": "inst-1",
+    "name": "Marco Ferretti",
+    "email": "marco@matchappoint.it",
+    "password": "tennis123",
+    "avatar": "MF"
+  },
+  {
+    "id": "inst-2",
+    "name": "Laura Bianchi",
+    "email": "laura@matchappoint.it",
+    "password": "tennis123",
+    "avatar": "LB"
+  },
+  {
+    "id": "inst-3",
+    "name": "Stefano Conti",
+    "email": "stefano@matchappoint.it",
+    "password": "tennis123",
+    "avatar": "SC"
+  }
+]

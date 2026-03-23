@@ -1,0 +1,134 @@
+[
+  {
+    "id": "stu-1",
+    "name": "Alice",
+    "surname": "Moretti",
+    "birthDate": "1995-04-12",
+    "phone": "+39 333 1234567",
+    "email": "alice.moretti@gmail.com",
+    "level": "avanzato",
+    "status": "Sta preparando il torneo regionale di giugno. Concentrarsi sul rovescio bimane e sulla prima di servizio.",
+    "createdAt": "2025-09-01T10:00:00Z"
+  },
+  {
+    "id": "stu-2",
+    "name": "Bruno",
+    "surname": "Esposito",
+    "birthDate": "1988-11-30",
+    "phone": "+39 347 9876543",
+    "email": "bruno.esposito@gmail.com",
+    "level": "principiante",
+    "status": "Prima esperienza con il tennis. Molto motivato ma ha bisogno di rinforzare la coordinazione occhio-racchetta.",
+    "createdAt": "2025-10-15T09:30:00Z"
+  },
+  {
+    "id": "stu-3",
+    "name": "Chiara",
+    "surname": "Russo",
+    "birthDate": "2001-07-22",
+    "phone": "+39 320 5551234",
+    "email": "chiara.russo@gmail.com",
+    "level": "intermedio",
+    "status": "Buona coordinazione e footwork. Deve lavorare sulla prima di servizio e sul gioco a rete.",
+    "createdAt": "2025-11-03T14:00:00Z"
+  },
+  {
+    "id": "stu-4",
+    "name": "Davide",
+    "surname": "Ferrari",
+    "birthDate": "1992-03-08",
+    "phone": "+39 380 7778899",
+    "email": "davide.ferrari@gmail.com",
+    "level": "avanzato",
+    "status": "Giocatore molto completo. Partecipa a tornei FIT categoria 3.3. Focus su tattica e variazioni di ritmo.",
+    "createdAt": "2025-08-20T08:00:00Z"
+  },
+  {
+    "id": "stu-5",
+    "name": "Elena",
+    "surname": "Lombardi",
+    "birthDate": "2005-12-15",
+    "phone": "+39 345 2223344",
+    "email": "elena.lombardi@gmail.com",
+    "level": "principiante",
+    "status": "Ragazza di 20 anni, approccio al tennis per la prima volta. Grande entusiasmo. Priorità: imparare le basi del dritto e del servizio.",
+    "createdAt": "2026-01-10T11:00:00Z"
+  },
+  {
+    "id": "stu-6",
+    "name": "Francesco",
+    "surname": "Ricci",
+    "birthDate": "1979-06-25",
+    "phone": "+39 333 9990011",
+    "email": "f.ricci@libero.it",
+    "level": "intermedio",
+    "status": "Adulto che riprende dopo 10 anni di pausa. Buone basi tecniche ma fisicamente da riallenare. Attenzione alla schiena.",
+    "createdAt": "2025-12-01T16:00:00Z"
+  },
+  {
+    "id": "stu-7",
+    "name": "Giulia",
+    "surname": "Marino",
+    "birthDate": "1998-09-03",
+    "phone": "+39 366 4445566",
+    "email": "giulia.marino@gmail.com",
+    "level": "avanzato",
+    "status": "Atleta con passato nel nuoto. Fisico eccellente. Agonista categoria 3.1. Lavoro su slice di rovescio e variazioni di spin.",
+    "createdAt": "2025-07-15T09:00:00Z"
+  },
+  {
+    "id": "stu-8",
+    "name": "Luca",
+    "surname": "Conti",
+    "birthDate": "2010-02-18",
+    "phone": "+39 347 1112233",
+    "email": "luca.conti.junior@gmail.com",
+    "level": "principiante",
+    "status": "Junior 16 anni. Inizia il percorso agonistico. Ottima coordinazione per l'età. Seguire programma Under 16.",
+    "createdAt": "2026-01-20T15:00:00Z"
+  },
+  {
+    "id": "stu-9",
+    "name": "Martina",
+    "surname": "Gallo",
+    "birthDate": "1985-08-11",
+    "phone": "+39 320 6667788",
+    "email": "martina.gallo@hotmail.it",
+    "level": "intermedio",
+    "status": "Gioca da 5 anni. Buon dritto, rovescio da migliorare. Vuole partecipare ai tornei sociali del circolo.",
+    "createdAt": "2025-09-15T10:30:00Z"
+  },
+  {
+    "id": "stu-10",
+    "name": "Nicola",
+    "surname": "Bruno",
+    "birthDate": "1975-01-30",
+    "phone": "+39 348 3334455",
+    "email": "nicola.bruno@gmail.com",
+    "level": "intermedio",
+    "status": "Professionista che gioca per hobby. Disponibile solo il weekend. Tecnica solida ma scarsa mobilità laterale.",
+    "createdAt": "2025-10-01T12:00:00Z"
+  },
+  {
+    "id": "stu-11",
+    "name": "Paola",
+    "surname": "De Luca",
+    "birthDate": "2003-05-27",
+    "phone": "+39 370 8889900",
+    "email": "paola.deluca@gmail.com",
+    "level": "avanzato",
+    "status": "Tra le più forti del circolo. Classifica FIT 2.8. Preparazione fisica eccellente. Obiettivo: migliorare il gioco sotto pressione.",
+    "createdAt": "2025-06-01T08:00:00Z"
+  },
+  {
+    "id": "stu-12",
+    "name": "Roberto",
+    "surname": "Vitale",
+    "birthDate": "1990-10-14",
+    "phone": "+39 333 0001122",
+    "email": "roberto.vitale@gmail.com",
+    "level": "principiante",
+    "status": "Nuovo iscritto al circolo. Ha giocato a padel per anni, alcuni fondamentali sono simili. Adattamento alla distanza dal campo.",
+    "createdAt": "2026-02-01T10:00:00Z"
+  }
+]
